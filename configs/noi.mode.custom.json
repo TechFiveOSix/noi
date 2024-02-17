@@ -1,0 +1,187 @@
+{
+  "name": "Noi Mode",
+  "version": "0.1.5",
+  "sync": "https://github.com/lencx/noi/blob/main/configs/noi.mode.json",
+  "modes": [
+    {
+      "id": "noi@ai",
+      "parent": 0,
+      "dir": true,
+      "text": "AI"
+    },
+    {
+      "id": "noi@dev",
+      "parent": 0,
+      "dir": true,
+      "text": "Dev"
+    },
+    {
+      "id": "noi@community",
+      "parent": 0,
+      "dir": true,
+      "text": "Community"
+    },
+    {
+      "id": "noi@design",
+      "parent": 0,
+      "dir": true,
+      "text": "Design"
+    },
+    {
+      "id": "noi:chatgpt",
+      "parent": "noi@ai",
+      "text": "ChatGPT",
+      "url": "https://chat.openai.com"
+    },
+    {
+      "id": "noi:claude",
+      "parent": "noi@ai",
+      "text": "Claude",
+      "url": "https://claude.ai"
+    },
+    {
+      "id": "noi:gemini",
+      "parent": "noi@ai",
+      "text": "gemini",
+      "url": "https://gemini.google.com"
+    },
+    {
+      "id": "noi:poe",
+      "parent": "noi@ai",
+      "text": "Poe",
+      "url": "https://poe.com"
+    },
+    {
+      "id": "noi:perplexity",
+      "parent": "noi@ai",
+      "text": "Perplexity",
+      "url": "https://www.perplexity.ai"
+    },
+    {
+      "id": "noi:copilot",
+      "parent": "noi@ai",
+      "text": "Copilot",
+      "url": "https://copilot.microsoft.com"
+    },
+    {
+      "id": "noi:huggingchat",
+      "parent": "noi@ai",
+      "text": "HuggingChat",
+      "url": "https://huggingface.co/chat"
+    },
+    {
+      "id": "noi:pi",
+      "parent": "noi@ai",
+      "text": "Pi",
+      "url": "https://pi.ai/talk"
+    },
+    {
+      "id": "noi:coze",
+      "parent": "noi@ai",
+      "text": "Coze",
+      "url": "https://www.coze.com/home"
+    },
+    {
+      "id": "noi:you",
+      "parent": "noi@ai",
+      "text": "YOU",
+      "url": "https://you.com"
+    },
+    {
+      "id": "noi:github",
+      "parent": "noi@dev",
+      "text": "GitHub",
+      "url": "https://github.com"
+    },
+    {
+      "id": "noi:replit",
+      "parent": "noi@dev",
+      "text": "Replit",
+      "url": "https://replit.com"
+    },
+    {
+      "id": "noi:huggingface",
+      "parent": "noi@dev",
+      "text": "Hugging Face",
+      "url": "https://huggingface.co"
+    },
+    {
+      "id": "noi:vscode",
+      "parent": "noi@dev",
+      "text": "VS Code",
+      "url": "https://vscode.dev"
+    },
+    {
+      "id": "noi:tiktok"
+      "parent": "noi@community",
+      "text": "TikTok",
+      "url": "https://www.tiktok.com"
+    },
+    {
+      "id": "noi:youtubestudio"
+      "parent": "noi@community",
+      "text": "YouTube Studio",
+      "url": "https://studio.youtube.com"
+    },
+    {
+      "id": "noi:facebook"
+      "parent": "noi@community",
+      "text": "Facebook",
+      "url": "https://www.facebook.com"
+    },
+    {
+      "id": "noi:instagram"
+      "parent": "noi@community",
+      "text": "Instagram",
+      "url": "https://www.instagram.com"
+    },
+    {
+      "id": "noi:x",
+      "parent": "noi@community",
+      "text": "X",
+      "url": "https://twitter.com"
+    },
+    {
+      "id": "noi:discord",
+      "parent": "noi@community",
+      "text": "Discord",
+      "url": "https://discord.com"
+    },
+    {
+      "id": "noi:hackernews",
+      "parent": "noi@community",
+      "text": "Hacker News",
+      "url": "https://news.ycombinator.com"
+    },
+    {
+      "id": "noi:canva",
+      "parent": "noi@design",
+      "text": "Canva",
+      "url": "https://www.canva.com"
+    },
+    {
+      "id": "noi:suno",
+      "parent": "noi@design",
+      "text": "Suno",
+      "url": "https://app.suno.ai"
+    },
+    {
+      "id": "noi:ElevenLabs",
+      "parent": "noi@design",
+      "text": "ElevenLabs",
+      "url": "https://www.elevenlabs.io"
+    },
+    {
+      "id": "noi:figma",
+      "parent": "noi@design",
+      "text": "Figma",
+      "url": "https://www.figma.com"
+    },
+    {
+      "id": "noi:dribbble",
+      "parent": "noi@design",
+      "text": "Dribbble",
+      "url": "https://dribbble.com"
+    }
+  ]
+}
